@@ -1,0 +1,116 @@
+<!doctype html>
+<html>
+<head>
+  <title>WEB1 HTMLLLLL</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="index.html">WEB</a></h1>
+  <ol>
+    <li><a href="1.html">html</a></li>
+    <li><a href="2.html">CSS</a></li>
+    <li><a href="3.html">JavaScript</a></li>
+  </ol>
+
+
+
+  <h2>HTML</h2>
+  <a href="https://html.spec.whatwg.org" target=_blank title='asf'> Hypertext Markup Language (HTML)</a> is the standard markup language
+
+  <img src= "a.jpg"       width=100%>
+    <p>for <strong>creating <u>web</u> pages</strong> and web applications.</p>
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+  <title>WEB1 CSS</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="index.html">WEB</a></h1>
+  <ol>
+    <li><a href="1.html">html</a></li>
+    <li><a href="2.html">CSS</a></li>
+    <li><a href="3.html">JavaScript</a></li>
+  </ol>
+
+
+
+  <h2>CSS</h2>
+  <a href="https://html.spec.whatwg.org" target=_blank title='asf'> CSS </a> is good
+  <img src= "a.jpg"       width=100%>
+    <p>for <strong>creating <u>web</u> pages</strong> and web applications.</p>
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+  <title>WEB1 JavaScript</title>
+  <meta charset="utf-8">
+</head>
+
+<body> 
+  <h1><a href="index.html">WEB</a></h1>
+  <ol>
+    <li><a href="1.html">html</a></li>
+    <li><a href="2.html">CSS</a></li>
+    <li><a href="3.html">JavaScript</a></li>
+  </ol>
+
+
+
+  <h2>JavaScript</h2>
+  <a href="https://html.spec.whatwg.org" target=_blank title='asf'> JavaScript</a> is amazing
+  <img src= "a.jpg"       width=100%>
+    <p>for <strong>creating <u>web</u> pages</strong> and web applications.</p>
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+  <title>WELCOME</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="index.html">WEB</a></h1>
+  <ol>
+    <li><a href="1.html">html</a></li>
+    <li><a href="2.html">CSS</a></li>
+    <li><a href="3.html">JavaScript</a></li>
+  </ol>
+<p>
+  <iframe width="560" height="3150" src="https://www.youtube.com/embed/7T7r_oSp0SE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+  <h2>WEB</h2>
+  <a href="https://html.spec.whatwg.org" target=_blank title='asf'> 주까세
+  <img src= "a.jpg"       width=100%>
+    <p>for <strong>creating <u>web</u> pages</strong> and web applications.</p>
+    <div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://myfirsstweb.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</body>
+</html>
